@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Manikandan D</h1>
 <h3 align="center">Frontend Developer | Tech Enthusiast | Creating Intuitive Designs</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandan-fe-developer&label=Profile%20views&color=0e75b6&style=flat" alt="manikandan" /> </p>
 
-- 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://manikandan-fe-developer.github.io/portfolio](https://manikandan-fe-developer.github.io/portfolio)
+- 🎯 Focus- **Building Seamless UIs**
 
-- 💬 Ask me about **Javascript**
+- 📚 Always Learning- **Tech & Beyond**
+  
+- 🚀 Goal- **Delivering High-Quality Code**
+
+- 🖥️ Interest- **Web Development & Design**
 
 - 📫 How to reach me **manikandan151020@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
