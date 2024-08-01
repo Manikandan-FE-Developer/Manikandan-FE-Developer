@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQFeXD62E2lHPA/profile-displaybackgroundimage-shrink_200_800/0/1691575953748?e=2147483647&v=beta&t=KacE7cZD6-p6RKjWdXdbcDsrOqoP40hULUvPd-e19mA)
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGRRcxPtHyN0g/profile-displaybackgroundimage-shrink_200_800/0/1666337559870?e=2147483647&v=beta&t=qRIlK0t2hzX-ZQ2GA3reNTSCqvT2PJW4PCFVmZxMpzI)
 <h1 align="center">Hi 👋, I'm Manikandan D</h1>
 <h3 align="center">Frontend Developer | Tech Enthusiast | Creating Intuitive Designs</h3>
 <br/>
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/manikandanfrontenddeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikandan d" height="30" width="40" style="margin-right: "15px";"/></a>
+<a href="https://www.linkedin.com/in/manikandanfrontenddeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikandan d" height="30" width="40"/></a>
 <a href="https://www.instagram.com/beginner_codes1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@beginnercodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
