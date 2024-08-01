@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQFeXD62E2lHPA/profile-displaybackgroundimage-shrink_200_800/0/1691575953748?e=2147483647&v=beta&t=KacE7cZD6-p6RKjWdXdbcDsrOqoP40hULUvPd-e19mA)
 <h1 align="center">Hi 👋, I'm Manikandan D</h1>
 <h3 align="center">Frontend Developer | Tech Enthusiast | Creating Intuitive Designs</h3>
-
+<br/>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
@@ -21,14 +21,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/manikandanfrontenddeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikandan d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manikandanfrontenddeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manikandan d" height="30" width="40" padding="100px"/></a>
 <a href="https://www.instagram.com/beginner_codes1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@beginnercodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" padding="10px"> 
+<p align="left"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
