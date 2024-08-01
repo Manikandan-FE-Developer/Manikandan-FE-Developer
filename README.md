@@ -1,10 +1,10 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd-aG5GbfUkwh0Dxo-qcOChmDUnrZqLbk4gBuYBLhnEyc5_xkSKDM8rhgecQiPrm2hEQ&usqp=CAU)
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQFeXD62E2lHPA/profile-displaybackgroundimage-shrink_200_800/0/1691575953748?e=2147483647&v=beta&t=KacE7cZD6-p6RKjWdXdbcDsrOqoP40hULUvPd-e19mA)
 <h1 align="center">Hi 👋, I'm Manikandan D</h1>
 <h3 align="center">Frontend Developer | Tech Enthusiast | Creating Intuitive Designs</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandan-fe-developer&label=Profile%20views&color=0e75b6&style=flat" alt="manikandan" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=manikandan-fe-developer&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif)" alt="manikandan" /> </p>
 
 
 - 🎯 Focus: **Building Seamless UIs**
