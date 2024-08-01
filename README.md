@@ -28,7 +28,7 @@
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" padding="10px"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -58,12 +58,10 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manikandan-fe-developer&show_icons=true&locale=en&layout=compact" alt="manikandan-fe-developer" />
 </p>
-<br/>
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manikandan-fe-developer&show_icons=true&locale=en" alt="manikandan-fe-developer" />
 </p>
-<br/>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikandan-fe-developer&" alt="manikandan-fe-developer" />
