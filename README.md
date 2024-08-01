@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGRRcxPtHyN0g/profile-displaybackgroundimage-shrink_200_800/0/1666337559870?e=2147483647&v=beta&t=qRIlK0t2hzX-ZQ2GA3reNTSCqvT2PJW4PCFVmZxMpzI)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGRRcxPtHyN0g/profile-displaybackgroundimage-shrink_200_800/0/1666337559870?e=2147483647&v=beta&t=qRIlK0t2hzX-ZQ2GA3reNTSCqvT2PJW4PCFVmZxMpzI)
 <h1 align="center">Hi 👋, I'm Manikandan D</h1>
 <h3 align="center">Frontend Developer | Tech Enthusiast | Creating Intuitive Designs</h3>
 <br/>
